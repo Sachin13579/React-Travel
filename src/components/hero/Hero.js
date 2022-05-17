@@ -12,8 +12,8 @@ function Hero() {
             </video>
             <div className="overlay"></div>
             <div className="content">
-                <h1>First Class Travel</h1>
-                <h2>Top 1% Locations Worldwide</h2>
+                <h1 style={{color:"black"}}>Let us plan you a Perfect Sikkim</h1>
+                <h2 style={{fontweight: "900"}}>Holiday</h2>
                 <form className="form">
                     <div>
                         <input type="text" placeholder='Search Destinations' />

@@ -4,7 +4,14 @@
     color: #fff;
     position: relative;
 }
-
+.content>h2{
+    font-size: 85px;
+    letter-spacing: -5px;
+    line-height: 85px;
+    font-family: Montserrat;
+    color: #aaa7a7;
+    font-weight: 900;
+}
 .overlay {
     background-color: rgba(0, 0, 0, 0.1);
     position: absolute;
